@@ -19,7 +19,7 @@ namespace EpinelPS
         {
             try
             {
-                Console.WriteLine($"EpinelPS v{Assembly.GetExecutingAssembly().GetName().Version} - https://github.com/EpinelPS/EpinelPS/");
+                Console.WriteLine($"EpinelPS v{Assembly.GetExecutingAssembly().GetName().Version} - 淘宝搜夜辉—夜辉奇妙屋，其他店铺均为倒卖，如遇被骗请差评退款，请勿用于商业用途。/");
                 Console.WriteLine("This software is licensed under the AGPL-3.0 License");
                 Console.WriteLine("Targeting game version " + GameConfig.Root.TargetVersion);
 
